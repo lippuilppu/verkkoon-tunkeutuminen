@@ -24,10 +24,25 @@ Virtualboxin asennus onnistui ongelmitta. Debianin asennus alkoi hyvin, mutta se
 
 Kokeilin uudellen tehdä virtuaalikoneen, se ei auttanut. Kokeilin uudelleen asentaa Debianin, jospa salasana oli oikeasti väärin, ei onnistunut. Kokeilin Googlen kautta löytää ratkaisua. Siellä ehdotettiin vboxuser, changeme, debian jne. Nämä eivät auttaneet.
 
+### 29.3.2026 Uudelleenyritys
+
+Olen aikaisemmin käyttänyt Virtualboxia ja tehnyt sillä virtuaalikoneen ongelmitta. Tämä kurssi vaatii läppärin oppitunneille, jotka pidetään paikanpäällä Pasilan kampuksella, joten halusin saada virtuaalikoneen läppärille siltä varalta, että sitä tarvitaan tunneilla. En kuitenkaan kiireisen viikon takia ehtinyt tehdä tehtävää kuin yhtenä päivänä ennen palautusta. Halusin ennen tuntia kokeilla uudelleen saada sen toimimaan, mutta tällä kertaa koti-pc:llä, jolla tein aikaisemman koneen.
+
+Avasin Virtualboxin, tein uuden virtuaalikoneen nimellä DebianIlonaOinonenCom ja aloitin debianin asennuksen. Pääsin kirjautumaan sisään valitulla käyttäjänimellä sekä salasanalla, jonka jälkeen hoidin terminaalin kautta päivitykset ja palomuurin asennuksen ja lopuksi uudelleenkäynnistin virtuaalikoneen.
+
+Tein saman läppärillä onnistuneesti. En tiedä miksi se ei eilen onnistunut. Teen seuraavat tehtävät pc:llä, ellei toisin sanota.
+
 
 ## b) Ei voi kalastaa
 
 Tätä en tehnyt.
+
+### 29.3.2026 Uudelleenyritys
+
+Painoin oikeasta yläkulmasta 'disconnect' ja pingasin 1.1.1.1. Tämän jälkeen laitoin yhteyden takaisin päällen ja pingasin uudelleen.
+
+<img width="739" height="244" alt="Näyttökuva 2026-03-29 162743" src="https://github.com/user-attachments/assets/cbf8330a-9b18-4114-b716-7d9b8abde046" />
+
 
 
 ## c) Wireshark
